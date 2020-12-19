@@ -1,0 +1,39 @@
+ body{
+    margin: 0;
+}
+ div{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #6607ff;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    text-align: center;
+    padding: 70px;
+}
+ h1{
+    margin: 0;
+    font-size: 55px;
+    color: #ececec;
+}
+ p{margin: 30px;font-size: 22px;line-height: 30px;}
+ a{
+    color: white;
+    background: #003410;
+    display: block;
+    padding: 20px;
+    font-size: 35px;
+    text-decoration: line-through;
+    font-weight: 900;
+    letter-spacing: 5px;
+    margin-bottom: 30px;
+}
+ img{
+    width: 100%;
+}
+
+span{
+    color: #00ff08;
+    font-size: 80px;
+}
